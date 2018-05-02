@@ -1,0 +1,152 @@
+
+
+/*!
+.jumbotron {
+	background-image: url('AFGlass1.jpg');
+	background-size: cover;
+}
+*/
+
+.footer {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  background-color: #2C3E50;
+  color: #fff;
+}
+
+.copyright {
+  background-color: #1a252f;
+}
+
+.jumbotron {
+	margin-top: 0px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	margin-bottom: 10px;
+	background-color: white;
+}
+
+
+
+body, html {
+	font-family: 'Vollkorn', serif;
+	position: relative;
+}
+
+/* .carousel-inner-img {
+	width: 100%;
+	height: 100%;
+} */
+
+
+/* .overlay {
+	background: url('logoRevised2.png') top left  no- repeat;
+	position: absolute;
+	z-index: 101;
+	top: 10%;
+	left: 10%;width: 100%;height: 100%;z-index: 10;pointer-events: none;
+	} */
+	
+/* .logo1 {
+	margin-top: 0px;
+	padding-top: 0px;
+	height: 300px;
+} */
+
+.testimate {
+	text-shadow: .15em .15em .35em #888;
+}
+
+
+@media (max-width: 768px) {
+	.navbar {
+		position: fixed;
+		right: 0;
+		left: 0;   
+		border-radius: 0;
+		top: 0;
+	}
+	.jumbotron {
+		margin-top: 60px;
+	}
+}
+
+#googleMap {
+	padding: 0px;
+	margin: 0px;
+	
+}
+
+
+.specialG1 {
+	border: 1px solid black;
+	box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
+}
+
+
+.fa-phone {
+	color: red;
+}
+
+.fa-envelope {
+	color: red;
+}
+
+
+/* .banner1 {
+	background-image: url('brokenglass2.jpg');
+	object-fit: fill;
+	background-repeat: no-repeat;
+
+} */
+
+.brokenglass {
+
+     background-image: url("brokenglass2.jpg");
+     min-height: 15vh;
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+	 border-radius: 25px;
+	 padding: 5px;
+	 box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
+}
+
+
+
+
+
+
+
+
+
+
+
+/* @media (max-width: 1200px) {
+	body {
+		margin-top: 50px;
+	}
+	  .navbar{
+		position: fixed;
+		right: 0;
+		left: 0;   
+		border-radius: 0;
+		top: 0;
+	  }      
+	} */
+	
+
+
+
+
+
+	
+	
+
+
+
+
+
+
+
+
